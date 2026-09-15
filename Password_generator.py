@@ -1,7 +1,7 @@
 import random  #Choose random
 import string
 
-length=int(input("Enter password length"))
+length=int(input("Enter password length:"))
 
 characters=string.ascii_letters+string.digits+string.punctuation   #ascii==upper + lowercase letters
 
