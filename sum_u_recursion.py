@@ -1,4 +1,4 @@
-def print12():
+def print12(n):
     if n==0:
         return 0
 
