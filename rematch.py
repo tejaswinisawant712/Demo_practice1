@@ -1,3 +1,4 @@
 import re
 text="python is easy"
-print(re.match("python",text))
+result=re.match("python",text)
+print(result)
